@@ -32,7 +32,7 @@ for y in ['2025', '2026']:
 wdf['PercChange_25to26'] = (wdf['Value_FY2026'] - wdf['Value_FY2025'])/wdf['Value_FY2025']
   
 # Full DOE budget composition (stacked bar, color by office)
-df = basedf.groupby(['Office', 'Fiscal Year'])['Value'].sum().reset_index()
+df = wdf.groupby(['Office'])[['Value_FY2024', 'Value_FY2025', 'Value_FY2026']].sum().reset_index()
 df.to_csv(os.path.join(output, 'by_office.csv'))
 
 # Which programs are going to 0
