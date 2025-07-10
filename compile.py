@@ -8,7 +8,7 @@ import sys
 import numpy as np
 import pandas as pd
 
-repo = os.path.join('H:', 'GitHub', 'doe_budget_2026')
+repo = # INSERT REPO HERE
 raw = os.path.join(repo, 'data', 'raw')
 output = os.path.join(repo, 'data', 'output')
 
