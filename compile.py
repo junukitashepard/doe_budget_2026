@@ -43,11 +43,13 @@ df.to_csv(os.path.join(output, 'by_program_to0.csv'))
 # Which programs are losing > 50% of its budget
 df = wdf.copy()
 df = df[df['PercChange_25to26'] < -0.5]
+df = df[df['Value_FY2025'] > 0]
 df.to_csv(os.path.join(output, 'by_program_50pcut.csv'))
 
 # Which programs are losing > 90% of its budget
 df = wdf.copy()
 df = df[df['PercChange_25to26'] < -0.9]
+df = df[df['Value_FY2025'] > 0]
 df.to_csv(os.path.join(output, 'by_program_90pcut.csv'))
 
 # Which programs are increasing funding

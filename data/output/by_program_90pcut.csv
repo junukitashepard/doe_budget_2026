@@ -16,7 +16,6 @@
 69,Science,Construction - Basic Energy Sciences,24-SC-12 NSLS-II Experimental Tools - III (NEXT-III),2556,5500,0,-1.0
 74,National Nuclear Security Administration (NNSA),Weapons Activities,"25-D-510 Plutonium Mission Safety & Quality Building, LANL",0,48500,0,-1.0
 92,Nuclear Energy,Fuel Cycle Research and Development,Advanced Nuclear Fuel Availability,100000,126500,0,-1.0
-105,National Nuclear Security Administration (NNSA),Defense Nuclear Nonproliferation,Cancellation of Prior Year Balance - Defense Nuclear Nonproliferation,0,0,-9422,-inf
 108,Fossil Energy,Coal and Carbon Utilization (formerly Carbon Management Technologies),Carbon Utilization,52500,52500,0,-1.0
 111,Office of Clean Energy Demonstrations,Clean Energy Demonstrations,Clean Energy Demonstrations,22500,22500,0,-1.0
 126,Grid Deployment,Distribution & Markets (GDO),Distribution & Markets (GDO),15500,15500,0,-1.0
@@ -41,9 +40,6 @@
 290,Energy Efficiency and Renewable Energy,Program Management,Program Direction (EERE/SCEP),22000,22000,0,-1.0
 291,Grid Deployment,Program Direction GDO,Program Direction GDO,6000,6000,0,-1.0
 306,Energy Efficiency and Renewable Energy,Renewable Energy,Renewable Energy Grid Integration,22000,110000,0,-1.0
-307,Credit Programs,Tribal Energy Loan Guarantee Program,Rescission of Prior Year Balances - TELGP (Adminstrative Expenses),0,0,-2500,-inf
-308,Credit Programs,Tribal Energy Loan Guarantee Program,Rescission of Prior Year Balances - TELGP (Credit Subsidy),0,0,-10500,-inf
-309,Credit Programs,Title 17 Innovative Technology Loan Guarantee Program,Rescission of Prior Year Balances - Title XVII Loan Guarantee (Credit Subsidy),0,0,-10659,-inf
 310,Science,Accelerator R&D and Production,Research - Accelerator R&D and Production,29000,27000,0,-1.0
 335,Energy Efficiency and Renewable Energy,Renewable Energy,Solar Energy Technologies,318000,41917,0,-1.0
 336,Fossil Energy,Special Recruitment Programs,Special Recruitment Programs,1000,1000,0,-1.0
@@ -53,7 +49,6 @@
 351,Energy Efficiency and Renewable Energy,State and Community Energy Program (SCEP),Training and Technical Assistance (SCEP),10000,10000,0,-1.0
 353,Grid Deployment,Transmission Planning & Permitting (GDO),Transmission Planning & Permitting (GDO),38250,38250,0,-1.0
 360,Fossil Energy,"University Training, Research and Recruitment ",University Training and Research,10000,11000,0,-1.0
-363,National Nuclear Security Administration (NNSA),Defense Nuclear Nonproliferation,Use of Prior Year Balance - Defense Nuclear Nonproliferation,-20000,0,-39574,-inf
 370,National Nuclear Security Administration (NNSA),Weapons Activities,W88 ALT 370,178823,63700,0,-1.0
 378,Energy Efficiency and Renewable Energy,State and Community Energy Program (SCEP),Weatherization Assistance Program (SCEP),326000,326000,0,-1.0
 379,Energy Efficiency and Renewable Energy,State and Community Energy Program (SCEP),Weatherization Readiness Fund (SCEP),30000,30000,0,-1.0

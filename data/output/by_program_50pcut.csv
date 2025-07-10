@@ -27,7 +27,6 @@
 93,Fossil Energy,"Oil, Gas, and Critical Minerals (formerly Resource Sustainability)",Advanced Production Technologies (formerly Advanced Remediation Technologies),53000,80500,40000,-0.5031055900621118
 100,ARPA-E,Projects,ARPA-E Projects,420000,420000,160000,-0.6190476190476191
 104,Energy Efficiency and Renewable Energy,Sustainable Transportation and Fuels (formerly Sustainable Transportation),Bioenergy Technologies,275000,305000,70000,-0.7704918032786885
-105,National Nuclear Security Administration (NNSA),Defense Nuclear Nonproliferation,Cancellation of Prior Year Balance - Defense Nuclear Nonproliferation,0,0,-9422,-inf
 108,Fossil Energy,Coal and Carbon Utilization (formerly Carbon Management Technologies),Carbon Utilization,52500,52500,0,-1.0
 111,Office of Clean Energy Demonstrations,Clean Energy Demonstrations,Clean Energy Demonstrations,22500,22500,0,-1.0
 112,Defense Environmental Cleanup,Closure Sites Administration,"Closure Sites Administration                                                                                                                                                                 3,023",3024,1350,500,-0.6296296296296297
@@ -60,9 +59,6 @@
 291,Grid Deployment,Program Direction GDO,Program Direction GDO,6000,6000,0,-1.0
 303,National Nuclear Security Administration (NNSA),Defense Nuclear Nonproliferation,Reactor Conversion and Uranium Supply,166675,143227,63383,-0.5574647238300041
 306,Energy Efficiency and Renewable Energy,Renewable Energy,Renewable Energy Grid Integration,22000,110000,0,-1.0
-307,Credit Programs,Tribal Energy Loan Guarantee Program,Rescission of Prior Year Balances - TELGP (Adminstrative Expenses),0,0,-2500,-inf
-308,Credit Programs,Tribal Energy Loan Guarantee Program,Rescission of Prior Year Balances - TELGP (Credit Subsidy),0,0,-10500,-inf
-309,Credit Programs,Title 17 Innovative Technology Loan Guarantee Program,Rescission of Prior Year Balances - Title XVII Loan Guarantee (Credit Subsidy),0,0,-10659,-inf
 310,Science,Accelerator R&D and Production,Research - Accelerator R&D and Production,29000,27000,0,-1.0
 312,Science,Biological and Environmental Research,Research - Biological & Environmental Research,890000,851000,384920,-0.5476850763807286
 317,Electricity,Grid Controls and Communications,Resilient Distribution Systems,53000,53000,25000,-0.5283018867924528
@@ -78,7 +74,6 @@
 351,Energy Efficiency and Renewable Energy,State and Community Energy Program (SCEP),Training and Technical Assistance (SCEP),10000,10000,0,-1.0
 353,Grid Deployment,Transmission Planning & Permitting (GDO),Transmission Planning & Permitting (GDO),38250,38250,0,-1.0
 360,Fossil Energy,"University Training, Research and Recruitment ",University Training and Research,10000,11000,0,-1.0
-363,National Nuclear Security Administration (NNSA),Defense Nuclear Nonproliferation,Use of Prior Year Balance - Defense Nuclear Nonproliferation,-20000,0,-39574,-inf
 367,Energy Efficiency and Renewable Energy,Sustainable Transportation and Fuels (formerly Sustainable Transportation),Vehicle Technologies,450000,239952,25000,-0.8958124958324999
 370,National Nuclear Security Administration (NNSA),Weapons Activities,W88 ALT 370,178823,63700,0,-1.0
 375,Energy Efficiency and Renewable Energy,Renewable Energy,Water Power Technologies,200000,300000,90000,-0.7
